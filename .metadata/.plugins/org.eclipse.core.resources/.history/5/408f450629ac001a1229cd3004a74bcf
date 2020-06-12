@@ -1,0 +1,9 @@
+package com.xamry.springboot.restful.springbootrestfulws.user;
+
+import org.springframework.stereotype.Repository;
+
+//Spring data repository
+@Repository
+public interface UserRepository {
+
+}

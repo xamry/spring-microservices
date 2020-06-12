@@ -1,0 +1,13 @@
+package com.xamry.microservices.limitsservice;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class LimitsConfigurationController {
+
+	@GetMapping(path = "/limits")
+	public LimitConfiguration retrieveLimitConfiguration() {
+		return new LimitConfiguration(1,  10000);
+	}
+}

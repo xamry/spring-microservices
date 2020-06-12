@@ -1,0 +1,4 @@
+#Read properties from here when no config server is used.
+spring.application.name=limits-service
+limits-service.minimum=9
+limits-service.maximum=99999

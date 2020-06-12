@@ -1,0 +1,10 @@
+package com.xamry.springboot.restful.springbootrestfulws;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class SwaggerConfig {
+
+	
+
+}

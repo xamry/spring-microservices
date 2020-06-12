@@ -1,0 +1,18 @@
+package com.xamry.springboot.restful.springbootrestfulws.user;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+public class UserDaoService {
+	
+	private static List<User> userList = new ArrayList<>();
+	
+	static {
+		userList.add(new User(1, "Adam", new Date()));
+		userList.add(new User(2, "Eve", new Date()));
+		userList.add(new User(1, "Jack", new Date()));
+		
+	}
+
+}

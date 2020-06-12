@@ -1,0 +1,3 @@
+logging.level.org.springframework=debug
+spring.messages.basename=messages
+management.endpoints.web.exposure.include=*	#For actuator

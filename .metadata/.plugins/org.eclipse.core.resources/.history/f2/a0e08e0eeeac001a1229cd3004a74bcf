@@ -1,0 +1,5 @@
+#In order to read config from config server, you have to use bootstrap.properties instead of application.properties
+#Provide name of application and URI of config server from where to read configuration.
+
+spring.application.name=limits-service
+

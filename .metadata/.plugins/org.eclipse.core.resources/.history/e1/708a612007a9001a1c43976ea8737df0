@@ -1,0 +1,11 @@
+package com.xamry.springboot.restful.springbootrestfulws.exception;
+
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+public class XamryResponseEntityExceptionHandler extends ResponseEntityExceptionHandler {
+
+	public XamryResponseEntityExceptionHandler() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

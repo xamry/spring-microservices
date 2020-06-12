@@ -1,0 +1,5 @@
+package com.xamry.springboot.restful.springbootrestfulws.versioning;
+
+public class PersonVersioningController {
+
+}
