@@ -1,5 +1,0 @@
-#http://localhost:8888/limits-service/default
-#Properties for dev environment
-#Only add properties you want to override, rest will be taken from default
-limits-service.minimum=1
-limits-service.maximum=11111

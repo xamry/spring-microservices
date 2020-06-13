@@ -1,9 +1,0 @@
-package com.xamry.springboot.restful.springbootrestfulws.user;
-
-import java.util.ArrayList;
-
-public class UserDaoService {
-	
-	private static List<User> userList = new ArrayList<>();
-
-}

@@ -1,4 +1,0 @@
-#http://localhost:8888/limits-service/default
-#Properties for dev environment
-limits-service.minimum=1
-limits-service.maximum=11111

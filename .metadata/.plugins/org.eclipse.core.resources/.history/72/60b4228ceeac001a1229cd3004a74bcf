@@ -1,8 +1,0 @@
-#In order to read config from config server, you have to use bootstrap.properties instead of application.properties
-#Provide name of application and URI of config server from where to read configuration.
-#Renamed application.properties to .bak. To be able to not use config server, delete bootstrap and rename backback file to application.properties
-
-#This must match with the config file name in config server (minus evironment name)
-spring.application.name=limits-service
-
-spring.cloud.config.uri=http://localhost:8888

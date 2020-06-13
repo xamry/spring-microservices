@@ -1,9 +1,0 @@
-package com.xamry.springboot.restful.springbootrestfulws;
-
-public class SwaggerConfig {
-
-	public SwaggerConfig() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

@@ -1,4 +1,0 @@
-#http://localhost:8888/limits-service/default
-#Default property for default environment
-limits-service.minimum=8
-limits-service.maximum=88888

@@ -1,4 +1,0 @@
-#http://localhost:8888/limits-service/qa
-#Properties for qa environment
-limits-service.minimum=2
-limits-service.maximum=22224

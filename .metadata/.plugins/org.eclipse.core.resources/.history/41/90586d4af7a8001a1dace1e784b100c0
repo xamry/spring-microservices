@@ -1,5 +1,0 @@
-package com.xamry.springboot.restful.springbootrestfulws;
-
-public class HelloWorldBean {
-
-}

@@ -1,5 +1,0 @@
-package com.xamry.microservices.limitsservice;
-
-public class LimitConfiguration {
-
-}

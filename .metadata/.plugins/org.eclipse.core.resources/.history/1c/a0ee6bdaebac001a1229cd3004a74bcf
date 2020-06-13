@@ -1,3 +1,0 @@
-#http://localhost:8888/limits-service/default
-limits-service.minimum=8
-limits-service.maximum=88888

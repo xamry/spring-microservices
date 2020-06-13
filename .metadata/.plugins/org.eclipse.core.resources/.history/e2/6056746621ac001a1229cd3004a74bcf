@@ -1,8 +1,0 @@
-#logging.level.org.springframework=debug
-spring.messages.basename=messages
-#For actuator
-management.endpoints.web.exposure.include=*	
-
-#Spring Security (If you don't define these, default username will be "user", and password will be generated each time spring starts
-security.user.name=amresh
-security.user.password=p4ssw0rd

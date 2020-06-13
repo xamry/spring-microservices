@@ -1,9 +1,0 @@
-package com.xamry.springboot.restful.springbootrestfulws.user;
-
-public class ExceptionResponse {
-
-	public ExceptionResponse() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
