@@ -30,16 +30,20 @@ Others
 Running Zipkin
 ===================
 1. Install RabbitMQ
+----------------------
 docker pull rabbitmq
 docker run -d --hostname my-rabbit --name some-rabbit rabbitmq:3
 
 2. Set RABBIT_URI (to be used by Zipkin)
+---------------------------------
 export RABBIT_URI=amqp://localhost
 
 3. Install and run Zipkin
+----------------------
 docker run -d -p 9411:9411 openzipkin/zipkin
 
 4. Open Zipkin UI
+--------------------
 http://localhost:9411/zipkin
 
 
