@@ -31,7 +31,7 @@ public class ZuulLoggingFilter extends ZuulFilter {
 		//Current HTTP Request
 		HttpServletRequest request = RequestContext.getCurrentContext().getRequest();
 		
-		logger.info("Request -> {}, request uri -> {}", request, request.getRequestURI());
+		logger.info("API Gateway :: Request -> {}, request uri -> {}", request, request.getRequestURI());
 		return null;
 	}
 
