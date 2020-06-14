@@ -16,8 +16,8 @@ Spring Cloud
 - Eureka Naming and Discovery
 - Ribbon Load Balancing
 - Zuul API Gateway
+- Sleuth for distributed tracing
 - Zipkin distributed tracing
-- Sleuth
 - Spring cloud Bus
 - Hystrix for fault tolerance
 
